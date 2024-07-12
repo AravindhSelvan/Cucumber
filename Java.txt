@@ -1,1 +1,2 @@
 Java is Independent platform.
+JS also  Independent platform.
